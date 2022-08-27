@@ -1,0 +1,24 @@
+.div1{
+    background-color:aqua;
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    position: relative;
+    left: 400px;
+}
+.div2{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    position: relative;
+    right: 200px;
+}
+.div3{
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    position: relative;
+    right: 200px;
+}
